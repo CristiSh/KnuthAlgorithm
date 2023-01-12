@@ -1,0 +1,18 @@
+﻿  Algoritm_Knuth.cpp
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(27,9): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(33,12): warning C4307: '*': signed integral constant overflow
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(34,13): warning C4307: '*': signed integral constant overflow
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(38,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(45,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(52,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(62,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(69,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(76,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(97,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(79,13): warning C4101: 'i': unreferenced local variable
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(108,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(116,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(123,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(132,6): warning C4101: 'dyn_step': unreferenced local variable
+C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\Algoritm_Knuth\Algoritm_Knuth.cpp(131,6): warning C4101: 'y': unreferenced local variable
+  Algoritm_Knuth.vcxproj -> C:\Users\cristian.seican\Desktop\Cri\VS2022P\Algoritm_Knuth\x64\Debug\Algoritm_Knuth.exe
